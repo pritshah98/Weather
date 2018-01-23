@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pritshah/.android/build-cache/5e11a3953b71c1324fb9dded3d3c050894f10303/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="/Users/pritshah/Documents/CS/WeatherApp/app/build/intermediates/pre-dexed/debug/classes_096d0b596a49cb2a4e3a55515ace61915e03a804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pritshah/.android/build-cache/6d8f31974f05dc54bacf2e173072582aa7ec0c30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/pritshah/Documents/CS/WeatherApp/app/build/intermediates/pre-dexed/debug/classes_7bbba51be2979f10f3b8c2cf52b90c0b56e18f23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pritshah/.android/build-cache/ac7a49a6b43258fb8165845b0e612a0a2aaa6d8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/pritshah/Documents/CS/WeatherApp/app/build/intermediates/pre-dexed/debug/classes_2131ec5d3eb85792e01e4782d493ff199f10f8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pritshah/.android/build-cache/3774e564a723f92b42bc19d374b16b177839cce3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/pritshah/Documents/CS/WeatherApp/app/build/intermediates/pre-dexed/debug/classes_6461076a30ec9811d6babbfd814e6ecbb3e05e42.jar" />
+    </item>
+
+</items>
